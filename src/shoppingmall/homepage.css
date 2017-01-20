@@ -1,0 +1,11 @@
+/*
+ * Empty Stylesheet file.
+ */
+.mainFxmlClass {
+        -fx-background-color: linear-gradient(#71a2b1, #3A5058);
+        
+}
+.button{
+    -fx-background-color: linear-gradient(lightyellow,darkorange);
+    -fx-text-fill: white;
+}
